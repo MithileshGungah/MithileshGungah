@@ -66,3 +66,11 @@ I am driven by projects where data engineering, data science, and ML come togeth
 <br>
 • I am always learning, not just in tech but in life
 
+---
+
+<h3 align="left">How to Contact Me?:</h3>
+
+Feel free to reach out via:
+
+- **Email:** mithileshgungah@gmail.com / mithilgungah@yahoo.com
+- **LinkedIn:** [Mithilesh Gungah](https://www.linkedin.com/in/mithilesh-gungah-331133215/)
