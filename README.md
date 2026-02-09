@@ -64,7 +64,7 @@ I am driven by projects where data engineering, data science, and ML come togeth
 
 ---
 
-<h3 align="left">How to Contact Me?:</h3>
+<h3 align="left">How to Contact Me?</h3>
 
 Feel free to reach out via:
 
