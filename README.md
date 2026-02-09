@@ -1,21 +1,21 @@
-<h1 align="center">Hi , I'm Mithilesh Gungah</h1>
+<h1 align="center">Hi, I'm Mithilesh Gungah.</h1>
 
 <h2 align="center">Data Scientist | Python, SQL, Power BI, ML, Generative AI | Delivering Actionable Insights from Data</h2>
 
-<p>I am a data scientist passionate about translating complex datasets into actionable insights. I specialize in data cleaning, visualization, reporting, and predictive modeling, using Python, SQL, Tableau, and machine learning to support data-driven decision-making.  
+<p>I am passionate about Data Science, Machine Learning, and AI, and I enjoy transforming raw data into meaningful insights and intelligent solutions. My experience as a Data Engineer deepened my understanding of data and sparked a stronger interest in data science. I am excited to combine both to build impactful, real-world solutions.  
 <br />
-I collaborate effectively in remote or international teams and thrive in projects where data is transformed into meaningful business impact.
+I am driven by projects that combine data engineering, data science, and ML to turn data into meaningful impact.
 </p> 
 
-### 🛠️ Tech Stack 
+### 🛠️ Tech Stack
 
-**Languages:** Python, SQL 
+**Python | SQL**  
 
-**Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, TensorFlow (learning) 
+**Pandas • NumPy • Scikit-learn • Matplotlib • Seaborn**  
 
-**Tools:** Jupyter Notebook, Tableau, Excel
+**Jupyter • Power BI • Tableau**  
 
-**Areas of Interest:** Machine Learning, NLP, Data Visualization 
+**Machine Learning • NLP • Data Visualization**
 
 ---
 
