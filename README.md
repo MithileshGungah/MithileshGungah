@@ -6,7 +6,7 @@ Data Science Enthusiast | Python • SQL • Power BI • ML • Generative AI
 
 <p align="center">
 I am passionate about Data Science, Machine Learning, and AI, with a strong interest in transforming raw data into meaningful insights and intelligent solutions.
-My experience as a Data Engineer deepened my understanding of how data is structured, processed, and optimized, which naturally strengthened my passion for data science.
+My experience as a Data Engineer deepened my understanding of how data is structured, processed, and optimized, which naturally strengthened my passion for Data Science.
 <br /><br />
 I am driven by projects where data engineering, data science, and ML come together to create impactful, real-world solutions.
 </p>
