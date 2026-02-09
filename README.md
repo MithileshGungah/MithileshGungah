@@ -57,7 +57,6 @@ I am driven by projects where data engineering, data science, and ML come togeth
 <h3 align="left">Some Fun Facts About Me:</h3>
 
 - I am a naturally curious person who loves figuring things out  
-<br>
 - I enjoy quiet focus time when working on something interesting  
 <br>
 - I strive for perfection, not only in my work but in the daily things I do in life  
