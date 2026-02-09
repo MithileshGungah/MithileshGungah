@@ -58,11 +58,8 @@ I am driven by projects where data engineering, data science, and ML come togeth
 
 - I am a naturally curious person who loves figuring things out  
 - I enjoy quiet focus time when working on something interesting  
-<br>
 - I strive for perfection, not only in my work but in the daily things I do in life  
-<br>
 - I believe quality is way better than quantity  
-<br>
 - I am always learning, not just in tech but in life
 
 ---
