@@ -51,3 +51,11 @@ I am driven by projects where data engineering, data science, and ML come togeth
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
   </a> 
 </p> 
+
+### Some Fun Facts About Me
+
+• I am a naturally curious person who loves figuring things out  
+• I enjoy quiet focus time when working on something interesting  
+• I strive for perfection, not only in my work but in the daily things I do in life  
+• I believe quality is way better than quantity  
+• I am always learning, not just in tech but in life
