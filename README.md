@@ -54,22 +54,53 @@ I am driven by projects where data engineering, data science, and ML come togeth
 
 ---
 
-<h3 align="left">Recognition</h3>
+<<h3 align="left">Recognition</h3>
 
 <div class="award-card">
   <div class="award-year">2026</div>
-  <div class="award-icon">
-    <i class="fa-solid fa-handshake"></i>
-  </div>
   <div class="award-content">
     <h3>Referral by Senior Lecturer</h3>
-    <p>Recommended by Senior Lecturer (Programme Leader) for skills, reliability, and strong analytical work.</p>
+    <p>
+      Recommended by a Senior Lecturer (Programme Leader) for technical ability,
+      reliability, and strong analytical thinking.
+    </p>
+
     <ul>
-      <li><i class="fa-solid fa-check"></i> Trusted for data projects</li>
-      <li><i class="fa-solid fa-check"></i> Praised for problem-solving</li>
-      <li><i class="fa-solid fa-check"></i> Strong work ethic and collaboration</li>
+      <li>Trusted for complex data-related projects</li>
+      <li>Recognised for problem-solving and analytical thinking</li>
+      <li>Demonstrated strong work ethic and collaboration</li>
     </ul>
-    <a href="https://github.com/MithileshGungah/Mit_K_Gungah/raw/main/Mithilesh%20Gungah%20Recommendation.pdf" class="btn" download>VIEW REFERRAL</a>
+
+    <a href="https://github.com/MithileshGungah/Mit_K_Gungah/raw/main/Mithilesh%20Gungah%20Recommendation.pdf" class="btn" download>
+      View Referral
+    </a>
+  </div>
+</div>
+
+<br>
+
+<div class="award-card">
+  <div class="award-year">2026</div>
+  <div class="award-content">
+    <h3>Best Dissertation Award</h3>
+    <p>
+      Awarded for producing an outstanding dissertation demonstrating strong
+      research, technical depth, and practical application of data science and
+      machine learning.
+    </p>
+  </div>
+</div>
+
+<br>
+
+<div class="award-card">
+  <div class="award-year">2026</div>
+  <div class="award-content">
+    <h3>Top Student in Cohort</h3>
+    <p>
+      Recognised for achieving the highest academic performance within the
+      programme cohort.
+    </p>
   </div>
 </div>
 
