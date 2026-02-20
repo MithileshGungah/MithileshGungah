@@ -54,6 +54,27 @@ I am driven by projects where data engineering, data science, and ML come togeth
 
 ---
 
+<h3 align="left">Recognition:</h3>
+
+<div class="award-card">
+  <div class="award-year">2026</div>
+  <div class="award-icon">
+    <i class="fa-solid fa-handshake"></i>
+  </div>
+  <div class="award-content">
+    <h3>Referral by Senior Lecturer</h3>
+    <p>Recommended by Senior Lecturer (Programme Leader) for skills, reliability, and strong analytical work.</p>
+    <ul>
+      <li><i class="fa-solid fa-check"></i> Trusted for data projects</li>
+      <li><i class="fa-solid fa-check"></i> Praised for problem-solving</li>
+      <li><i class="fa-solid fa-check"></i> Strong work ethic and collaboration</li>
+    </ul>
+    <a href="https://github.com/MithileshGungah/Mit_K_Gungah/raw/main/Mithilesh%20Gungah%20Recommendation.pdf" class="btn" download>VIEW REFERRAL</a>
+  </div>
+</div>
+
+---
+
 <h3 align="left">Some Fun Facts About Me:</h3>
 
 - I am a naturally curious person who loves figuring things out  
