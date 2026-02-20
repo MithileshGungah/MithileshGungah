@@ -54,7 +54,7 @@ I am driven by projects where data engineering, data science, and ML come togeth
 
 ---
 
-<h3 align="left">Recognition:</h3>
+<h3 align="left">Recognition</h3>
 
 <div class="award-card">
   <div class="award-year">2026</div>
