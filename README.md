@@ -54,55 +54,23 @@ I am driven by projects where data engineering, data science, and ML come togeth
 
 ---
 
-<<h3 align="left">Recognition</h3>
+### Awards & Recognition
 
-<div class="award-card">
-  <div class="award-year">2026</div>
-  <div class="award-content">
-    <h3>Referral by Senior Lecturer</h3>
-    <p>
-      Recommended by a Senior Lecturer (Programme Leader) for technical ability,
-      reliability, and strong analytical thinking.
-    </p>
+**2026 — Top Student in Cohort**  
+Recognised for achieving the highest academic performance within the programme cohort.
 
-    <ul>
-      <li>Trusted for complex data-related projects</li>
-      <li>Recognised for problem-solving and analytical thinking</li>
-      <li>Demonstrated strong work ethic and collaboration</li>
-    </ul>
+**2026 — Best Dissertation Award**  
+Awarded for producing an outstanding dissertation demonstrating strong research, technical depth, and practical application of data science and machine learning.
 
-    <a href="https://github.com/MithileshGungah/Mit_K_Gungah/raw/main/Mithilesh%20Gungah%20Recommendation.pdf" class="btn" download>
-      View Referral
-    </a>
-  </div>
-</div>
+**2026 — Referral by Senior Lecturer**  
+Recommended by a Senior Lecturer (Programme Leader) for skills, reliability, and strong analytical work.
 
-<br>
+Key points noted in the recommendation:
+- Trusted for data projects  
+- Praised for problem-solving  
+- Strong work ethic and collaboration  
 
-<div class="award-card">
-  <div class="award-year">2026</div>
-  <div class="award-content">
-    <h3>Best Dissertation Award</h3>
-    <p>
-      Awarded for producing an outstanding dissertation demonstrating strong
-      research, technical depth, and practical application of data science and
-      machine learning.
-    </p>
-  </div>
-</div>
-
-<br>
-
-<div class="award-card">
-  <div class="award-year">2026</div>
-  <div class="award-content">
-    <h3>Top Student in Cohort</h3>
-    <p>
-      Recognised for achieving the highest academic performance within the
-      programme cohort.
-    </p>
-  </div>
-</div>
+[View Referral](https://github.com/MithileshGungah/Mit_K_Gungah/raw/main/Mithilesh%20Gungah%20Recommendation.pdf)
 
 ---
 
