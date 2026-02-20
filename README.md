@@ -22,7 +22,7 @@ Awarded for producing an outstanding dissertation demonstrating strong research,
 Recognised for achieving the highest academic performance within the programme cohort.
 
 **2026 - Recommendation by Senior Lecturer**  
-Recommended by Senior Lecturer (Programme Leader) for skills, reliability, and strong analytical work.
+Recognised for strong analytical ability, reliability, and high-quality work.
 
 [View Recommendation](https://github.com/MithileshGungah/Mit_K_Gungah/raw/main/Mithilesh%20Gungah%20Recommendation.pdf)
 
