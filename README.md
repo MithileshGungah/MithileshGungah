@@ -21,10 +21,10 @@ Awarded for producing an outstanding dissertation demonstrating strong research,
 **2025 - Top Student in Cohort**  
 Recognised for achieving the highest academic performance within the programme cohort.
 
-**2026 - Referral by Senior Lecturer**  
+**2026 - Recommendation by Senior Lecturer**  
 Recommended by Senior Lecturer (Programme Leader) for skills, reliability, and strong analytical work.
 
-[View Referral](https://github.com/MithileshGungah/Mit_K_Gungah/raw/main/Mithilesh%20Gungah%20Recommendation.pdf)
+[View Recommendation](https://github.com/MithileshGungah/Mit_K_Gungah/raw/main/Mithilesh%20Gungah%20Recommendation.pdf)
 
 ---
 
