@@ -71,7 +71,7 @@ Praised by the Programme Leader for analytical skills, reliability, and professi
 
 ---
 
-<h3 align="left">How to Contact Me</h3>
+<h3 align="left">Contact Me</h3>
 
 <p>
   <!-- LinkedIn button -->
