@@ -80,7 +80,7 @@ Praised by the Programme Leader for analytical skills, reliability, and professi
   </a>
 
   <!-- Email button -->
-  <a href="mailto:mithileshgungah@gmail.com" target="_blank" style="margin-right:30px;">
+  <a href="mailto:mithileshgungah@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23FF8C00?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
