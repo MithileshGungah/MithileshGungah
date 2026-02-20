@@ -85,11 +85,11 @@ Praised by the Programme Leader for analytical skills, reliability, and professi
 
 <h3 align="left">Some Fun Facts About Me:</h3>
 
-- I am a naturally curious person who loves figuring things out  
-- I enjoy quiet focus time when working on something interesting  
-- I strive for perfection, not only in my work but in the daily things I do in life  
-- I believe quality is better than quantity  
-- I am always learning, not just in tech but in life
+- Naturally curious, always eager to explore new data challenges and uncover insights
+- Thrive during focused, deep-work sessions on complex problems
+- Committed to delivering high-quality results, with attention to detail in both work and everyday life
+- Believe in quality over quantity, prioritizing meaningful impact in everything I do  
+- Lifelong learner, continuously expanding skills in tech and beyond
 
 ---
 
