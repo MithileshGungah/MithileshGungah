@@ -15,11 +15,11 @@ I am driven by projects where data engineering, data science, and ML come togeth
 
 ### Awards & Recognition
 
-**2025 - Top Student in Cohort**  
-Recognised for achieving the highest academic performance within the programme cohort.
-
 **2025 - Best Dissertation Award**  
 Awarded for producing an outstanding dissertation demonstrating strong research, technical depth, and practical application of data science and machine learning.
+
+**2025 - Top Student in Cohort**  
+Recognised for achieving the highest academic performance within the programme cohort.
 
 **2026 - Referral by Senior Lecturer**  
 Recommended by Senior Lecturer (Programme Leader) for skills, reliability, and strong analytical work.
