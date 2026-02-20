@@ -33,13 +33,15 @@ Praised by the Programme Leader for analytical skills, reliability, and professi
 
 ### 🛠️ Tech Stack
 
-**Python | SQL**  
+**Programming & Databases:** Python, SQL  
 
-**Pandas • NumPy • Scikit-learn • Matplotlib • Seaborn**  
+**Data Analysis & Manipulation:** Pandas, NumPy  
 
-**Jupyter • Power BI • Tableau**  
+**Machine Learning & Deep Learning:** Scikit-learn, TensorFlow, Keras  
 
-**Machine Learning • NLP • Data Visualization**
+**Data Visualization & BI:** Matplotlib, Seaborn, Power BI, Tableau, Jupyter  
+
+**Specializations:** Machine Learning, Deep Learning, Natural Language Processing (NLP), Data Visualization
 
 ---
 
