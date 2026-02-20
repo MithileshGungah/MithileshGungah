@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Mithilesh Gungah.</h1>
 
-<h2 align="justify">
+<h2 align="center">
 Data Science Enthusiast | Python • SQL • Power BI • ML • Generative AI
 </h2>
 
@@ -13,7 +13,7 @@ I am driven by projects where data engineering, data science, and ML come togeth
 
 ---
 
-### Awards & Recognition
+### 🥇 Awards & Recognition
 
 **2025 - Best Data Science Dissertation Award**
 Awarded for producing an outstanding dissertation demonstrating strong research, technical depth, and practical application of data science and machine learning.
