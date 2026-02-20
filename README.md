@@ -24,11 +24,6 @@ Awarded for producing an outstanding dissertation demonstrating strong research,
 **2026 - Referral by Senior Lecturer**  
 Recommended by Senior Lecturer (Programme Leader) for skills, reliability, and strong analytical work.
 
-Key points noted in the recommendation:
-- Trusted for data projects  
-- Praised for problem-solving  
-- Strong work ethic and collaboration  
-
 [View Referral](https://github.com/MithileshGungah/Mit_K_Gungah/raw/main/Mithilesh%20Gungah%20Recommendation.pdf)
 
 ---
