@@ -11,6 +11,10 @@ My experience as a Data Engineer deepened my understanding of how data is struct
 I am driven by projects where data engineering, data science, and ML come together to create impactful, real-world solutions.
 </p>
 
+<p align="justify">
+I am actively seeking entry-level or junior Data Scientist and Machine Learning roles where I can apply my skills, continue learning, and contribute to meaningful data-driven solutions.
+</p>
+
 ---
 
 ### 🥇 Awards & Recognition
