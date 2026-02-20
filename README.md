@@ -71,11 +71,11 @@ Praised by the Programme Leader for analytical skills, reliability, and professi
 
 ---
 
-<h3 align="left">How to Contact Me</h3>
+<h3 align="center">How to Contact Me</h3>
 
-<p>
+<p align="center">
   <!-- LinkedIn button -->
-  <a href="https://www.linkedin.com/in/mithilesh-gungah-331133215/" target="_blank">
+  <a href="https://www.linkedin.com/in/mithilesh-gungah-331133215/" target="_blank" style="margin-right:5px;">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 
