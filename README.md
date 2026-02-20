@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Mithilesh Gungah 👋🏼</h1>
 
-<h2 align="center">
+<h2 align="left">
 Aspiring Data Scientist | Python • SQL • Machine Learning • Power BI • Generative AI
 </h2>
 
