@@ -16,21 +16,6 @@ I am currently seeking entry-level or junior Data Scientist and Machine Learning
 
 ---
 
-### 🥇 Awards & Recognition
-
-**2025 - Best Data Science Dissertation Award (Journal Paper in Preparation)**  
-Awarded for producing an outstanding dissertation demonstrating strong research, technical depth, and practical application of data science and machine learning.
-
-**2025 - Top Student in Cohort**  
-Recognised for achieving the highest academic performance within the programme cohort.
-
-**2026 - Recommendation by Senior Lecturer**  
-Praised by the Programme Leader for analytical skills, reliability, and professional work.
-
-[View Recommendation](https://github.com/MithileshGungah/Mit_K_Gungah/raw/main/Mithilesh%20Gungah%20Recommendation.pdf)
-
----
-
 ### 🛠️ Tech Stack
 
 **Programming & Databases:**  
@@ -58,6 +43,21 @@ Praised by the Programme Leader for analytical skills, reliability, and professi
 **Productivity & Collaboration:**  
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
+
+---
+
+### 🥇 Awards & Recognition
+
+**2025 - Best Data Science Dissertation Award (Journal Paper in Preparation)**  
+Awarded for producing an outstanding dissertation demonstrating strong research, technical depth, and practical application of data science and machine learning.
+
+**2025 - Top Student in Cohort**  
+Recognised for achieving the highest academic performance within the programme cohort.
+
+**2026 - Recommendation by Senior Lecturer**  
+Praised by the Programme Leader for analytical skills, reliability, and professional work.
+
+[View Recommendation](https://github.com/MithileshGungah/Mit_K_Gungah/raw/main/Mithilesh%20Gungah%20Recommendation.pdf)
 
 ---
 
