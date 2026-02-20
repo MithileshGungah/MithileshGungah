@@ -61,7 +61,7 @@ Praised by the Programme Leader for analytical skills, reliability, and professi
 
 ---
 
-<h3 align="left">💡Some Fun Facts About Me:</h3>
+<h3 align="left">💡 Some Fun Facts About Me:</h3>
 
 - Naturally curious, always eager to explore new data challenges and uncover insights
 - Thrive during focused, deep-work sessions on complex problems
