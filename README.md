@@ -75,7 +75,7 @@ Praised by the Programme Leader for analytical skills, reliability, and professi
 
 <p>
   <!-- LinkedIn button -->
-  <a href="https://www.linkedin.com/in/mithilesh-gungah-331133215/" target="_blank" style="margin-right:8px;">
+  <a href="https://www.linkedin.com/in/mithilesh-gungah-331133215/" target="_blank" style="margin-right:50px;">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 
