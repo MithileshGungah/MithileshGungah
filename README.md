@@ -1,18 +1,17 @@
 <h1 align="center">Hi, I'm Mithilesh Gungah.</h1>
 
 <h2 align="center">
-Data Science Enthusiast | Python • SQL • Power BI • ML • Generative AI
+Aspiring Data Scientist | Python • SQL • Machine Learning • Power BI • Generative AI
 </h2>
 
 <p align="justify">
-I am passionate about Data Science, Machine Learning, and AI, with a strong interest in transforming raw data into meaningful insights and intelligent solutions.
-My experience as a Data Engineer deepened my understanding of how data is structured, processed, and optimized, which naturally strengthened my passion for Data Science.
+I am passionate about Data Science, Machine Learning, and Artificial Intelligence, with a strong focus on transforming raw data into meaningful insights and intelligent solutions. My background in data engineering strengthened my understanding of how data is structured, processed, and optimized, allowing me to approach data science problems with both analytical and practical perspectives.
 <br /><br />
-I am driven by projects where data engineering, data science, and ML come together to create impactful, real-world solutions.
+I enjoy working on problems where data engineering, analytics, and machine learning come together to deliver impactful, real-world solutions.
 </p>
 
 <p align="justify">
-I am actively seeking entry-level or junior Data Scientist and Machine Learning roles where I can apply my skills, continue learning, and contribute to meaningful data-driven solutions.
+I am currently seeking entry-level or junior Data Scientist and Machine Learning opportunities where I can apply my technical skills, continue growing, and contribute to building data-driven solutions.
 </p>
 
 ---
