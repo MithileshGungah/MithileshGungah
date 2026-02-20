@@ -71,9 +71,13 @@ Praised by the Programme Leader for analytical skills, reliability, and professi
 
 ---
 
-<h3 align="left">How to Contact Me?</h3>
+<h3 align="left">How to Contact Me</h3>
 
-Feel free to reach out via:
-
-**Email:** mithileshgungah@gmail.com / mithilgungah@yahoo.com <br> <br>
-**LinkedIn:** [Mithilesh Gungah](https://www.linkedin.com/in/mithilesh-gungah-331133215/)
+<p>
+  <a href="mailto:mithileshgungah@gmail.com">
+    <img src="https://img.shields.io/badge/Email-mithileshgungah@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/mithilesh-gungah-331133215/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Mithilesh%20Gungah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
