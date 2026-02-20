@@ -49,7 +49,6 @@ Praised by the Programme Leader for analytical skills, reliability, and professi
 <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white" />
 
 **Data Visualization & BI:**
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
 <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=Matplotlib&logoColor=black" />
 <img src="https://img.shields.io/badge/Seaborn-4479A1?style=flat-square&logo=Seaborn&logoColor=white" />
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black" />
