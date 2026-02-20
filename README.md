@@ -74,10 +74,13 @@ Praised by the Programme Leader for analytical skills, reliability, and professi
 <h3 align="left">How to Contact Me</h3>
 
 <p>
-  <a href="mailto:mithileshgungah@gmail.com">
-    <img src="https://img.shields.io/badge/Email-mithileshgungah@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
+  <!-- LinkedIn button -->
   <a href="https://www.linkedin.com/in/mithilesh-gungah-331133215/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Mithilesh%20Gungah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+
+  <!-- Email button -->
+  <a href="mailto:mithileshgungah@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23FF8C00?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
