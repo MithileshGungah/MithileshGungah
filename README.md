@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Mithilesh Gungah👋🏼</h1>
+<h1 align="center">Hi, I'm Mithilesh Gungah 👋🏼</h1>
 
 <h2 align="center">
 Aspiring Data Scientist | Python • SQL • Machine Learning • Power BI • Generative AI
