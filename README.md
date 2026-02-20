@@ -15,7 +15,7 @@ I am driven by projects where data engineering, data science, and ML come togeth
 
 ### Awards & Recognition
 
-**2025 - Best Dissertation Award**  
+**2025 - Best Data Science Dissertation Award** [Journal Paper In Preparation]
 Awarded for producing an outstanding dissertation demonstrating strong research, technical depth, and practical application of data science and machine learning.
 
 **2025 - Top Student in Cohort**  
