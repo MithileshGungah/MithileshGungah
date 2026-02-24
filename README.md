@@ -16,7 +16,7 @@ I am currently seeking entry-level or junior Data Scientist and Machine Learning
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Technical Stack
 
 **Programming & Databases:**  
 <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
@@ -61,7 +61,7 @@ Praised by the Programme Leader for analytical skills, reliability, and professi
 
 ---
 
-<h3 align="left">💡 Some Fun Facts About Me:</h3>
+<h3 align="left">💡 Some Fun Facts About Me</h3>
 
 - Naturally curious, always eager to explore new data challenges and uncover insights
 - Thrive during focused, deep-work sessions on complex problems
