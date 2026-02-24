@@ -58,6 +58,7 @@ Recognised for achieving the highest academic performance within the programme c
 Praised by the Programme Leader for analytical skills, reliability, and professional work.
 
 [View Recommendation](https://github.com/MithileshGungah/Mit_K_Gungah/raw/main/Mithilesh%20Gungah%20Recommendation.pdf)
+[![View Recommendation](https://github.com/MithileshGungah/Mit_K_Gungah/raw/main/Mithilesh%20Gungah%20Recommendation.pdf)
 
 ---
 
