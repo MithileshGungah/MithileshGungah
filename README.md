@@ -57,7 +57,7 @@ Recognised for achieving the highest academic performance within the programme c
 **2026 - Recommendation by Senior Lecturer**  
 Praised by the Programme Leader for analytical skills, reliability, and professional work.
 
-[![View Recommendation](https://img.shields.io/badge/View%20Recommendation-0077B5?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://github.com/MithileshGungah/Mit_K_Gungah/raw/main/Mithilesh%20Gungah%20Recommendation.pdf)
+[![View Recommendation](https://img.shields.io/badge/View%20Recommendation-2EA44F?style=for-the-badge&logo=check-circle&logoColor=white)](https://github.com/MithileshGungah/Mit_K_Gungah/raw/main/Mithilesh%20Gungah%20Recommendation.pdf)
 
 ---
 
