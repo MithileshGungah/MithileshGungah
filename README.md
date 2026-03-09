@@ -15,8 +15,9 @@ I am currently seeking entry-level or junior Data Scientist and Machine Learning
 </p>
 
 <p align="center">
+Interested in my work? 
 <a href="https://github.com/MithileshGungah/Data-Science-Portfolio">
-  <img src="https://img.shields.io/badge/View%20My%20Portfolio-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/View%20Data%20Science%20Portfolio-0A66C2?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
 
