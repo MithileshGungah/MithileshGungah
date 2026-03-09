@@ -14,10 +14,10 @@ I enjoy working on problems where data engineering, analytics, and machine learn
 I am currently seeking entry-level or junior Data Scientist and Machine Learning opportunities where I can apply my technical skills, continue growing, and contribute to building data-driven solutions.
 </p>
 
-<p align="center">
-Interested in my work? 
+<p>
+Interested in my work?
 <a href="https://github.com/MithileshGungah/Data-Science-Portfolio">
-  <img src="https://img.shields.io/badge/View%20Data%20Science%20Portfolio-0A66C2?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/View%20Data%20Science%20Portfolio-0A66C2?style=for-the-badge&logo=github&logoColor=white" style="vertical-align:middle;">
 </a>
 </p>
 
