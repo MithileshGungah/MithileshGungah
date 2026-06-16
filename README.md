@@ -27,7 +27,7 @@ I am currently seeking entry-level or junior Data Scientist and Machine Learning
 **2025 - Best Data Science Dissertation Award (Journal Paper in Preparation)**  
 Awarded for producing an outstanding dissertation demonstrating strong research, technical depth, and practical application of data science and machine learning.
 
-**2025 - Top Student in Cohort**  
+**2025 - Top-ranked in Cohort**  
 Recognised for achieving the highest academic performance within the programme cohort.
 
 **2026 - Recommendation by Senior Lecturer**  
