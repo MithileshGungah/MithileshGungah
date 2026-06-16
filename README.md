@@ -69,11 +69,11 @@ Praised by the Programme Leader for analytical skills, reliability, and professi
 
 <h3 align="left">💡 Some Fun Facts About Me</h3>
 
-- Naturally curious, always digging deeper to uncover meaningful insights  
-- Detail-driven, with a strong commitment to high-quality, well-crafted work  
-- Focused on quality over quantity, aiming for impact that actually matters  
-- Thoughtful and results-oriented, valuing long-term value over quick wins  
-- Lifelong learner, continuously expanding skills in tech and beyond  
+- Naturally curious, always digging deeper to uncover meaningful insights.
+- Detail-driven, with a strong commitment to high-quality, well-crafted work.
+- Focused on quality over quantity, aiming for impact that actually matters.  
+- Thoughtful and results-oriented, valuing long-term value over quick wins.  
+- Lifelong learner, continuously expanding skills in tech and beyond.  
 
 ---
 
