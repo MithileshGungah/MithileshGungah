@@ -11,7 +11,7 @@ I enjoy working on problems where data engineering, analytics, and machine learn
 </p>
 
 <p align="justify">
-I am currently seeking entry-level or junior Data Scientist and Machine Learning opportunities where I can apply my technical skills, continue growing, and contribute to building data-driven solutions.
+I am currently seeking entry-level or Junior Data Scientist and Machine Learning opportunities where I can apply my technical skills, continue growing, and contribute to building data-driven solutions.
 </p>
 
 <p><b>Interested in my work?</b></p>
